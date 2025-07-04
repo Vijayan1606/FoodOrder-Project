@@ -11,7 +11,7 @@ body {
       rgba(250, 250, 250, 0.801),
       rgba(250, 250, 250, 0.836)
     ),
-    url("../public/images/flat-lay-green-vegetables-fruits.jpg");
+    url("./flat-lay-green-vegetables-fruits.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
