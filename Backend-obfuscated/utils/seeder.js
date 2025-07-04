@@ -35,7 +35,7 @@ function _0x43b8(_0x5d9c7c, _0x1ec9ac) {
 const Fooditem = require("../models/foodItem"),
   dotenv = require(_0x55fde5(0xe3)),
   connectDatabase = require("../config/database"),
-  fooditems = require("../data/foodItem.json"),
+  fooditems = require("../database/Internship.fooditems.json"),
   { connect } = require(_0x55fde5(0xd9));
 dotenv["config"]({ path: _0x55fde5(0xdc) }), connectDatabase();
 const seedFooditems = async () => {
